@@ -1,0 +1,130 @@
+134999	Kiku Cuernavaca	1	0	0	0	1	0
+132825	puesto de tacos	1	0	0	0	0	1
+135106	El Rincón de San Francisco	1	1	1	0	1	1
+132667	little pizza Emilio Portes Gil	0	0	0	0	0	0
+132613	carnitas_mata	1	0	2	0	1	0
+135040	Restaurant los Compadres	1	1	0	0	2	0
+132732	Taqueria EL amigo 	1	0	0	1	0	1
+132875	shi ro ie	0	1	4	0	2	1
+132609	Pollo_Frito_Buenos_Aires	1	0	3	0	0	0
+135082	la Estrella de Dimas	1	0	0	0	1	0
+135070	Restaurante 75	1	0	0	0	1	0
+135069	Abondance Restaurante Bar	1	1	0	0	0	0
+135065	El angel Restaurante	1	1	4	0	2	0
+135076	Restaurante Pueblo Bonito	1	1	0	0	2	0
+135086	Mcdonalds Parque Tangamanga	1	0	3	0	1	0
+132870	Tortas y hamburguesas el gordo	1	0	3	0	0	0
+132854	Sirlone	1	1	0	0	1	0
+132937	rockabilly 	1	2	4	0	0	0
+132856	Unicols Pizza	1	1	0	0	0	0
+132668	TACOS EL GUERO	1	0	0	0	0	0
+135033	Restaurant El Muladar de Calzada	1	0	4	0	1	0
+132862	La Posada del Virrey	1	1	0	1	2	0
+134983	Restaurant and Bar and Clothesline Carlos N Charlies	1	2	4	0	2	0
+132851	KFC	1	0	3	0	0	0
+135013	Giovannis	1	0	0	0	0	0
+135042	Restaurant Oriental Express	1	0	0	0	1	0
+132768	Mariscos Tia Licha	1	0	3	1	1	0
+132561	cafe ambar	0	0	0	0	0	0
+135045	Restaurante la Gran Via	1	1	0	1	2	0
+132847	don burguers	1	0	0	0	0	1
+135054	Restaurante y Pescaderia Tampico	1	0	0	0	2	0
+134975	Rincon del Bife	0	2	4	0	2	0
+135053	La Fontana Pizza Restaurante and Cafe	1	0	4	0	2	0
+135050	Restaurante la Estrella de Dima	1	1	0	0	2	0
+135025	El Rincon de San Francisco	1	0	0	0	1	0
+135030	Preambulo Wifi Zone Cafe	1	0	0	0	1	0
+135057	El Herradero Restaurante and Bar	1	1	4	0	1	0
+135079	Koye Sushi	1	0	0	0	2	0
+134992	Restaurant Teely	1	1	4	1	2	0
+132954	la parroquia	0	0	3	0	1	0
+135041	Luna Cafe	1	1	0	0	1	0
+132608	Hamburguesas La perica	1	0	2	0	0	1
+135046	Restaurante El Reyecito	1	0	0	0	1	0
+132564	churchs	0	0	0	0	0	0
+132869	Dominos Pizza	1	0	3	0	1	0
+132925	el pueblito	0	1	3	0	1	0
+132955	emilianos	0	1	0	0	0	0
+135059	Restaurant Bar Hacienda los Martinez	1	1	4	0	1	0
+135001	Vips	1	1	0	0	1	0
+135063	Restaurante Alhondiga	1	0	0	0	1	0
+135080	los Toneles	1	0	4	0	2	0
+135000	Restaurant los Pinos	1	0	0	0	1	0
+135066	Restaurante Guerra	1	1	4	0	2	0
+135034	Michiko Restaurant Japones	1	0	0	0	1	0
+135060	Restaurante Marisco Sam	1	0	0	0	1	0
+135055	la Cochinita Pibil Restaurante Yucateco	1	0	4	0	2	0
+135108	Potzocalli	0	0	0	0	0	0
+135074	Restaurante la Parroquia Potosina	1	1	4	0	2	0
+135018	El Oceano Dorado	1	2	2	0	1	1
+135064	Restaurante El Chivero S.A. de C.V.	1	0	0	0	2	0
+135038	Restaurant la Chalita	1	0	4	0	1	0
+135081	El Club	1	0	0	0	1	0
+132723	Gordas de morales	1	2	4	0	1	0
+135051	Restaurante Versalles	1	0	4	0	0	0
+135021	Subway	1	0	3	0	0	0
+135052	La Cantina Restaurante	1	2	0	0	2	0
+132845	Cenaduria El RincÃ³n de Tlaquepaque	1	0	0	0	1	0
+135011	Los Vikingos	1	0	0	0	1	0
+132858	Hamburguesas Valle Dorado	1	0	0	0	0	0
+135026	la Cantina	1	2	0	0	2	0
+132884	dairy queen	0	0	0	0	0	0
+135016	Arrachela Grill	1	0	0	0	1	0
+135104	vips	0	2	3	0	1	0
+132630	palomo tec	0	0	0	0	0	0
+135047	Restaurante Casa de las Flores	1	1	4	0	2	0
+132951	VIPS	1	0	3	1	0	0
+132665	TACOS CORRECAMINOS	1	0	0	0	0	0
+135044	Restaurant Wu Zhuo Yi	1	0	0	0	1	0
+135035	El Mundo de la Pasta	1	0	4	0	2	0
+135071	Restaurante la Cantina	1	2	4	0	1	0
+132834	Gorditas Doa Gloria	1	0	3	1	0	0
+132846	el lechon potosino 	1	0	2	1	0	1
+135048	Restaurante Bar Fu-hao	1	1	0	0	2	0
+132717	tortas hawai	0	0	3	0	1	0
+132861	Carls Jr	1	0	3	0	1	0
+132885	Hamburguesas saul	1	0	0	0	0	0
+132740	Carreton de Flautas y Migadas	1	0	2	0	0	1
+132830	Rincon Huasteco	0	0	0	0	0	0
+132773	El cotorreo	0	1	2	0	0	1
+132706	Gorditas Dona Tota	1	0	3	0	1	0
+132872	Pizzeria Julios	0	0	3	0	1	0
+134987	Chilis Cuernavaca	1	1	0	0	1	0
+132572	Cafe Chaires	1	0	3	0	0	0
+132958	tacos los volcanes	1	0	0	0	0	0
+132733	Little Cesarz	1	0	3	0	1	0
+132922	cafe punta del cielo	0	0	2	2	1	0
+132715	tacos de la estacion	0	0	0	0	0	1
+135027	Restaurant Orizatlan	1	1	0	0	1	0
+132767	Restaurant Familiar El Chino	0	1	2	1	1	1
+135039	Restaurant de Mariscos de Picon	1	0	4	0	0	0
+134996	Sanborns Casa Piedra	1	1	1	0	1	0
+132755	La Estrella de Dimas	1	0	0	0	1	0
+135043	pizza clasica	1	0	0	0	1	0
+132654	Carnitas Mata  Calle 16 de Septiembre	0	0	0	0	0	0
+135049	Restaurante de Mariscos la Langosta	1	0	0	0	1	0
+135073	Restaurante Bar El Gallinero	1	1	4	0	2	0
+132560	puesto de gorditas	1	0	2	0	0	1
+134976	Log Yin	0	0	0	0	0	0
+135075	Mariscos El Pescador	1	0	0	0	1	0
+132660	carnitas mata calle Emilio Portes Gil	0	0	0	0	0	0
+132921	crudalia	0	1	4	1	0	1
+132594	tacos de barbacoa enfrente del Tec	0	0	3	0	0	1
+134986	Restaurant Las Mananitas	1	1	0	2	2	0
+135062	Restaurante El Cielo Potosino	1	0	0	0	1	0
+132766	Mikasa	1	1	0	0	1	0
+135088	Cafeteria cenidet	1	0	3	0	0	0
+135058	Restaurante Tiberius	1	0	0	0	1	0
+132754	Cabana Huasteca	1	0	0	0	1	0
+132584	Gorditas Dona Tota	0	0	3	0	1	0
+135032	Cafeteria y Restaurant El Pacifico	1	1	4	0	1	0
+135028	La Virreina	1	1	0	0	1	0
+135085	Tortas Locas Hipocampo	1	0	3	0	1	0
+132663	tacos abi	1	0	0	0	0	0
+132626	la perica hamburguesa	0	0	0	0	1	0
+132583	McDonalds Centro	1	0	3	0	0	0
+132866	Chaires	1	0	3	0	1	0
+135072	Sushi Itto	1	0	0	0	1	0
+135109	Paniroles	0	1	3	0	1	0
+135019	Restaurant Bar Coty y Pablo	1	0	0	0	0	0
+132877	sirloin stockade	0	0	0	0	0	0

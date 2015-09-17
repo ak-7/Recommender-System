@@ -1,0 +1,24 @@
+For file cb,
+columns are- restaurant_id,rest_name,country,alcohol,smoking ,dree_code,price,area
+country:mexico=1. other=0
+alcohol: No_alcohol_server=0, wine_beer=1, full_bar=2
+smoking: none=0, only at bar=1, permitted=2, not permitted=3, section=4
+dress_code: informal=0, casual=1, formal=2
+price: low=0, medium=1, high=2
+area: open=1, closed=0
+
+For file final_cfratings,
+column are Cust_Id, Rest_Id, Rating(0-2)
+
+For file demonewdb,
+columns are-Cust_Id,smoker,dress_pref,ambience,transport,marital_status,religion,activity,budget
+smoker:false-0,true-1
+dress preference: informal-0,formal-1,no prefernce-2,elegant-3
+ambience:family-0,friends-1,solitary-2
+transport:on foot-0,public-1,car owner-2
+marital status: single-0,married-1,widow-2
+religion:none-0,catholic-1,christian-2,Mormon-3,Jewish-4
+activity:student-0,professional-1,unemployed-2,working class-3S
+budget:low-0,medium-1,high-2
+
+
